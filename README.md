@@ -1,4 +1,4 @@
-##Pedestrian Detection
+Pedestrian Detection
 
 Pedestrian detection is a crucial area of computer vision with significant applications in autonomous vehicles, intelligent traffic systems, and video surveillance.  
 
